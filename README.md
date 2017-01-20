@@ -1,4 +1,8 @@
-# expressJSTwig
+# expressJSTwig 2017
+
+Twig js is one of the better template engines,
+and is based on its bigger older brother Twig for php.
+
 Express Js Twig Skeleton Project
 
 requires Compass / Sass to be installed
