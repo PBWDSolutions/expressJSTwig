@@ -1,6 +1,6 @@
 # expressJSTwig 2017
 
-Twig js is one of the better template engines,
+Twig js is one of the better javascript template engines,
 and is based on its bigger older brother Twig for php.
 
 Express Js Twig Skeleton Project
